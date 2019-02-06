@@ -1,0 +1,24 @@
+ {
+"products": [
+{"id":1,"name":"Starling, superb","category":"Violet"},
+{"id":2,"name":"Nine-banded armadillo","category":"Puce"},
+{"id":3,"name":"Tern, white-winged black","category":"Puce"},
+{"id":4,"name":"Porcupine, tree","category":"Purple"},
+{"id":5,"name":"Kingfisher, white-throated","category":"Blue"},
+{"id":6,"name":"Pheasant, common","category":"Crimson"},
+{"id":7,"name":"Gray langur","category":"Mauv"},
+{"id":8,"name":"Black-cheeked waxbill","category":"Indigo"},
+{"id":9,"name":"Ring-tailed possum","category":"Crimson"},
+{"id":10,"name":"Tyrant flycatcher","category":"Violet"},
+{"id":11,"name":"Common rhea","category":"Puce"},
+{"id":12,"name":"California sea lion","category":"Fuscia"},
+{"id":13,"name":"Deer, barasingha","category":"Goldenrod"},
+{"id":14,"name":"Goldeneye, common","category":"Turquoise"},
+{"id":15,"name":"Baboon, yellow","category":"Purple"},
+{"id":16,"name":"Vulture, bengal","category":"Yellow"},
+{"id":17,"name":"Hare, arctic","category":"Aquamarine"},
+{"id":18,"name":"Neotropic cormorant","category":"Orange"},
+{"id":19,"name":"Weaver, lesser masked","category":"Maroon"},
+{"id":20,"name":"Guerza","category":"Green"}
+]
+} 
